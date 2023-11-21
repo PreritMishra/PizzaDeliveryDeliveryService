@@ -4,7 +4,9 @@ The DeliveryService is a microservice responsible for managing Delivery-related 
 
 ## Features
 
-Enable restaurant owners to update the status of pizza deliveries.
+Allow admin users to add or remove restaurants from the platform.
+Enable restaurant owners to manage their menu by adding, updating, or removing items.
+They can also manage if restaurant is online or offline
 
 ## Technologies Used
 
@@ -18,7 +20,7 @@ Enable restaurant owners to update the status of pizza deliveries.
 
    ```bash
    git clone <repository-url>
-   cd DeliveryService
+   cd AdminService
 
 2. Install dependencies
     npm install
