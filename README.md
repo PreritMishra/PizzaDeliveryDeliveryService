@@ -26,3 +26,12 @@ Enable restaurant owners to update the status of pizza deliveries.
 #### Environment Variables
 
 Create a .env file in the root directory 
+
+#### Testing
+
+To test API endpoints, we can use POSTMAN
+
+1. Download POSTMAN:
+2. Write the api from routes
+3. Pass the data
+4 Run test
